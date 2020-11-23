@@ -45,7 +45,8 @@ Car reverse parking safety device with an LED bar graph
 
 ## 04. Circuit Diagram<a name="diagram"/>
 
-<img src="img/circuit.png">
+
+<img src="img/circuit.png" width="400" height="430">
 
 
 
