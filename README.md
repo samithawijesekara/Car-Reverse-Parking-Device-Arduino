@@ -34,13 +34,13 @@ Car reverse parking safety device with an LED bar graph
 
 
 ## 03. Components Required<a name="required"/>
-
-
-
-
-
-
-
+   - Arduino UNO X 1
+   - HC-SR04 Ultrasonic Sensor X 1
+   - Buzzer X 1
+   - LED X 5
+   - Connecting Wires
+   - Breadboard
+   
 
 ## 04. Circuit Diagram<a name="diagram"/>
 
