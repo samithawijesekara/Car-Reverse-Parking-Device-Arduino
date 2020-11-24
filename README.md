@@ -174,7 +174,7 @@ void loop() {
 
 ## 07. Code Explanation<a name="explanation"/>
 
-
+First we have to define all pin we used in arduino uno board.
 
 
 
