@@ -1,5 +1,5 @@
-# Arduino-Car-Reverse-Parking-Device
-Car reverse parking safety device with an LED bar graph
+# Car-Reverse-Parking-Device-Arduino
+Car reverse parking safety device with LED bar graph
 
 ### Table of Content
 -1 [Project Overview](#overview)</br>
