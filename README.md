@@ -2,13 +2,13 @@
 Car reverse parking safety device with LED bar graph
 
 ### Table of Content
--1 [Project Overview](#overview)</br>
--2 [Final Output](#output)</br>
--3 [Components Required](#required)</br>
--4 [Circuit Diagram](#diagram)</br>
--5 [Principle of the Circuit](#principle)</br>
--6 [Code](#code)</br>
--7 [Code Explanation](#explanation)</br>
+-01 [Project Overview](#overview)</br>
+-02 [Final Output](#output)</br>
+-03 [Components Required](#required)</br>
+-04 [Circuit Diagram](#diagram)</br>
+-05 [Principle of the Circuit](#principle)</br>
+-06 [Code](#code)</br>
+-07 [Code Explanation](#explanation)</br>
 
 
 
