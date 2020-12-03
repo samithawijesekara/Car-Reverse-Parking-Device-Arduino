@@ -60,12 +60,6 @@ Car reverse parking safety device with LED bar graph
 
 
 
-
-cf
-
-
-
-
 ## 06. Code<a name="code"/>
 
 ```
