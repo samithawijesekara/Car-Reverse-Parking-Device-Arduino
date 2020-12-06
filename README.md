@@ -48,7 +48,7 @@ Car reverse parking safety device with LED bar graph
 
 <img src="img/circuit.png" width="400" height="430">
 
-
+I drawn this circuit diagram on [Fritzing](https://fritzing.org/)
 
 
 
